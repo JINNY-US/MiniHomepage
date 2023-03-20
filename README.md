@@ -1,7 +1,10 @@
 # MiniHomepage
 
-This is incomplete
+This is incomplete   
+   
+   ***   
+      
 
-I used XAMPP
-PHP Server: Apache
-DB: MySQL
+I used XAMPP   
+PHP Server: Apache   
+DB: MySQL   
